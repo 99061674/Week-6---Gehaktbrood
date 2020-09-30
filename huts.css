@@ -1,0 +1,84 @@
+.grey {
+    height: 200px;
+}
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+}
+div.hoofdmenu{
+    text-align: center;
+    background-color:grey;
+    padding: 20px 20px;
+    text-decoration: none;
+    border: 2px solid black;
+}
+.voor{
+        font-family: 'Roboto', sans-serif;
+    background-color: grey;
+}
+
+.na{
+    font-family: 'Roboto', sans-serif;
+    background-color: grey;
+}
+.hoofd{
+    font-family: 'Roboto', sans-serif;
+    background-color: grey;
+  
+}
+h2{
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+
+}
+div.container{
+    text-align: center;
+    margin: 0 auto;
+    width: 900px;
+    font-size: 20px;
+}
+img.preisoep{
+    width: 50%;
+    text-align: center;
+    margin-top: 10px;
+}
+img.gehaktbrood{
+    width: 50%;
+    text-align: center;
+    margin-top: 10px;
+}
+img.mango{
+    width: 35%;
+    text-align: center;
+    margin-top: 10px;
+}
+p.ing {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+ul.uli{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    list-style-position: inside;
+}
+
+
+}
+p.bord{
+    border: solid;
+    border-color: #def6ed;
+    border-radius: 4px;
+    background-color: #def6ed;
+}
+
+P.ing{
+    font-size: 32px;
+}
